@@ -5,6 +5,16 @@ package com.NewGit;
  */
 public class App {
     public static void main(String[] args) {
+<<<<<<< HEAD
+        System.out.println("Hello World!");
+
+         System.out.println("Hello  !");
+
+         System.out.println("  World!");
+
+         System.out.println("            !");
+=======
         System.out.println("Hello World!    ");
+>>>>>>> main
     }
 }
